@@ -82,23 +82,23 @@
 
 
 ## CODE:
-#include <iostream> 
-using namespace std;
-int main() { 
-int m, n, X;
+	#include <iostream> 
+	using namespace std;
+	int main() { 
+	int m, n, X;
 
-cout << "Enter value of m: "; 
-cin >> m;
-cout << "Enter value of n: ";
-cin >> n;
-
-X = (m * m + n * n) - (2 * m * n);
-
-cout << "\nValue of X =" << X << endl;
-
-
-return  O;
-}
+	cout << "Enter value of m: "; 
+	cin >> m;
+	cout << "Enter value of n: ";
+	cin >> n;
+	
+	X = (m * m + n * n) - (2 * m * n);
+	
+	cout << "\nValue of X =" << X << endl;
+	
+	
+	return  O;
+	}
 
 
 # OUTPUT:
@@ -112,17 +112,17 @@ return  O;
 
 ## CODE:
 
-#include <iostream> 
-using namespace std; 
-int main(){
-char a; 
-int b;
-cout << "Enter any character: ";
-Cin >> a;
- b=a;
-  cout << "The ASCII Value of" << a << "is" << b; 
-return O;
-}
+	#include <iostream> 
+	using namespace std; 
+	int main(){
+	char a; 
+	int b;
+	cout << "Enter any character: ";
+	Cin >> a;
+	 b=a;
+	  cout << "The ASCII Value of" << a << "is" << b; 
+	return O;
+	}
 
 
 # OUTPUT:
@@ -135,15 +135,15 @@ return O;
 
 ## CODE:
 
-#include <iostream> 
-using namespace std;  
-int main(){
-int num;
-cout<<"Enter any Number: "; 
-cin >> num;
-cout << "The character w.r.t " << num <<" is:"<<char(a); 
-	return O;
-}
+	#include <iostream> 
+	using namespace std;  
+	int main(){
+	int num;
+	cout<<"Enter any Number: "; 
+	cin >> num;
+	cout << "The character w.r.t " << num <<" is:"<<char(a); 
+		return O;
+	}
 
 # OUTPUT:
 <img width="878" height="216" alt="image" src="https://github.com/user-attachments/assets/06ee80c0-bf5b-4484-bf49-e7f60fee9261" />
@@ -156,16 +156,16 @@ cout << "The character w.r.t " << num <<" is:"<<char(a);
 
 ## CODE:
 
-#include <iostream> 
-using namespace std; 
-int main(){
-char a;
-cout << "Enter Lowercase alphabet charachter: "; 
-cin >> a;
-cout << "The Uppercase of "<< a <<" is:" << char(a-32);
-
-return  O;
-}
+	#include <iostream> 
+	using namespace std; 
+	int main(){
+	char a;
+	cout << "Enter Lowercase alphabet charachter: "; 
+	cin >> a;
+	cout << "The Uppercase of "<< a <<" is:" << char(a-32);
+	
+	return  O;
+	}
 
 
 # OUTPUT:
@@ -180,15 +180,15 @@ return  O;
 
 ## CODE:
 
-#include <iostream> 
-using namespace std; 
-int main(){
-char a;
-cout << "Enter Uppercase alphabet charachter: "; 
-cin >> a;
-cout << "The Lowercase of " << a <<" is: " << char(a+32); 
-return O;
-}
+	#include <iostream> 
+	using namespace std; 
+	int main(){
+	char a;
+	cout << "Enter Uppercase alphabet charachter: "; 
+	cin >> a;
+	cout << "The Lowercase of " << a <<" is: " << char(a+32); 
+	return O;
+	}
 
 
 # OUTPUT:
