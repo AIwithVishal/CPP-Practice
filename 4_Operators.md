@@ -92,7 +92,8 @@ Prem Vishal
 
 # QUESTION 4:
 #### Create a program to calculate and display the surface of the cylinder given the radius (r) and height (h) using the formula:
-          <img width="696" height="136" alt="image" src="https://github.com/user-attachments/assets/05df8814-c306-425b-826e-178b7d0cbf6e" />
+<img width="699" height="135" alt="image" src="https://github.com/user-attachments/assets/64161d0c-1e4d-4642-801a-4695b979c3b7" />
+
 
 
 
