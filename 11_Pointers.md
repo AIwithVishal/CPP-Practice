@@ -131,7 +131,8 @@
 
 
  
-# Question 05: Write a program that should have a user-defined function names bubbleSort( ), which should have one parameter of pointer to an integer array. The function should sort the values of that array in ascending order (smaller to larger). Then, in the main( ) function, create an integer array initialized with some values within the code and print the array values along with a message saying that is the original/unsorted array values. After that, pass that array to the function bubbleSort( ) that should sort its values. Finally, print the array values along with a message saying that these are the sorted values.
+# Question 05:
+#### Write a program that should have a user-defined function names bubbleSort( ), which should have one parameter of pointer to an integer array. The function should sort the values of that array in ascending order (smaller to larger). Then, in the main( ) function, create an integer array initialized with some values within the code and print the array values along with a message saying that is the original/unsorted array values. After that, pass that array to the function bubbleSort( ) that should sort its values. Finally, print the array values along with a message saying that these are the sorted values.
 
 ## Code:
 
