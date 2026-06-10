@@ -40,7 +40,8 @@
 
 # OUTPUT:
 
- 
+ <img width="682" height="316" alt="image" src="https://github.com/user-attachments/assets/d8d8d2c6-7f08-48de-a2fc-20995ddd7538" />
+
 
 
 
@@ -86,6 +87,9 @@
 
 # OUTPUT:
 
+<img width="600" height="668" alt="image" src="https://github.com/user-attachments/assets/ad7241b3-1620-4c04-910f-6f29223909ae" />
+
+
 
  
 # QUESTION 3:
@@ -113,6 +117,9 @@
     }
     
 # OUTPUT:
+
+<img width="576" height="286" alt="image" src="https://github.com/user-attachments/assets/fbc303bc-8ee5-40bc-bbef-e7cc295c9516" />
+
 
 
  
@@ -161,6 +168,9 @@
     
 # OUTPUT:
 
+<img width="689" height="313" alt="image" src="https://github.com/user-attachments/assets/9f2b2a38-c12e-4adb-9eeb-c2e9262d54cb" />
+
+
  
 # QUESTION 5:
 #### Create a program that takes 10 integer inputs from the user and stores them in an array. Find and print the second smallest and second largest numbers in the array. 
@@ -195,6 +205,9 @@
     }
 
 # OUTPUT:
+
+<img width="427" height="467" alt="image" src="https://github.com/user-attachments/assets/9bfc5398-cdb2-4d77-85ee-c93f30386f89" />
+
 
 
  
@@ -252,6 +265,7 @@
 
 
 # OUTPUT:
+<img width="713" height="280" alt="image" src="https://github.com/user-attachments/assets/5292c166-6b98-4d3e-9c9c-9510051e46b1" />
 
 
  
@@ -309,6 +323,9 @@
     
 # OUTPUT:
  
+<img width="795" height="467" alt="image" src="https://github.com/user-attachments/assets/ab91a967-bc71-4558-b2d8-c21c2b02755d" />
+
+
 
 # QUESTION 8: Student Enrollment 
 #### Design a program that manages student enrollment in courses. The program should allow users to add students to courses and display a list of enrolled students for each course. Use loops and conditional statements to achieve this. 
@@ -340,6 +357,9 @@
 
 
 # OUTPUT:
+
+<img width="553" height="383" alt="image" src="https://github.com/user-attachments/assets/4d672c56-b7a3-42eb-a99a-d96bc6a91f35" />
+
  
 
 
@@ -372,6 +392,10 @@
     }
 
 # OUTPUT:
+
+<img width="663" height="230" alt="image" src="https://github.com/user-attachments/assets/3253b7da-8d69-4052-bf23-abf0ff94dde1" />
+
+
  
 # QUESTION 10:
 #### Write a program that gets array size and elements as input from a user and then prints only the EVEN values that are present in the array.
@@ -404,6 +428,9 @@
     }
 
 # OUTPUT:
+
+<img width="528" height="120" alt="image" src="https://github.com/user-attachments/assets/59f08fdd-4fa9-41e9-b812-568cd1b6a48b" />
+
  
 
 # QUESTION 11:
@@ -445,6 +472,9 @@
 	
 
 # OUTPUT:
+
+<img width="544" height="336" alt="image" src="https://github.com/user-attachments/assets/e5865bca-da12-460b-8f52-b69b41bccfe9" />
+
  
 
 # QUESTION 12:	
@@ -487,5 +517,12 @@
     }
     
 # OUTPUT:
+
+<img width="509" height="253" alt="image" src="https://github.com/user-attachments/assets/01f53326-8253-4c3c-b11c-86eefeea524d" />
+
+
+
+
+
  
 
